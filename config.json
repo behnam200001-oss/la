@@ -1,0 +1,23 @@
+{
+  "mode": "auto",
+  "bitcoin": true,
+  "evm": true,
+  "search_type": "all",
+  "random": true,
+  "incremental": false,
+  "start_key": "1",
+  "end_key": "",
+  "step": 1,
+  "batch_size": 100000,
+  "max_memory": 0,
+  "threads": 0,
+  "gpu_devices": "all",
+  "address_file": "addresses.txt",
+  "output_file": "found.txt",
+  "report_interval": 5,
+  "disable_progress": false,
+  "cache_size": 1000,
+  "save_interval": 10000,
+  "resume": true,
+  "verbose": false
+}
